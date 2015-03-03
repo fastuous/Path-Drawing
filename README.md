@@ -7,3 +7,5 @@ This module is part of a LibGDX project, and I've separated it out to be its own
 If you don't know how to set up a gradle and/or LibGDX project, you can find info on it <a target="_blank" href="http://libgdx.badlogicgames.com/documentation.html">here</a>.
 
 The main program code is loated in core/src/com/trumandeyoung/pathdrawing/PathDrawing.java.
+
+![Imgur](http://imgur.com/VGoXtmh)
