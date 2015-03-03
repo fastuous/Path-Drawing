@@ -8,4 +8,4 @@ If you don't know how to set up a gradle and/or LibGDX project, you can find inf
 
 The main program code is loated in core/src/com/trumandeyoung/pathdrawing/PathDrawing.java.
 
-![Imgur](http://imgur.com/VGoXtmh)
+![Imgur](http://i.imgur.com/VGoXtmh.png)
